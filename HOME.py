@@ -44,9 +44,3 @@ st.write("역사적으로 많은 유명 선수들이 아스날에서 뛰었습�
 
 image_url = "https://i.namu.wiki/i/_TMYi1-kxIiGfAXPN-NJ52MNdsE7c1pWh4k3HfKaw_GW45jw7R1XXNZwUIXL2mEcp3D-wxvPgp-o48j-XCoVNA.svg"
 st.image(image_url, caption='아스날의 로고이다.', use_column_width=True)
-
-#스트림릿 사이트 배포및 작성
-#깃 다운로드 깃허브 로그인 깃 원격 레파스토리 깃허브에서 만들기
-#내프로젝트 깃이랑 연결해서 원격에 저장시키기
-#requirements.txt에 필요한 파이썬 라이브러리 쓰기
-#streamlit shared에 들어가서 deploy하기
